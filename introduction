@@ -1,0 +1,18 @@
+<html>
+        <title>我的第二个网页</title>
+     <body>
+                <h1>Welcome!!!</h1>
+                <h2>我将介绍一款游戏</h2>
+                <p>游戏名</P>
+                <p>Pubg</P>
+     <body>
+        <style> 
+            body
+                {
+            background-image: url(dddd.jpg)          
+            }
+            body
+
+        <style/>
+
+<html/>
