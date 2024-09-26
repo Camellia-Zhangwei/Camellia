@@ -1,0 +1,19 @@
+<html>
+        <title>我的第一个网页</title>
+     <body>
+                <h1>Welcome!!!</h1>
+                <h2>欢迎来到张伟的网页</h2>
+                <p>Email：911379702.@qq>com</P>
+                <p>mobile：不告诉你</P>
+     <body>
+        <style> 
+            body
+                {
+            background-image: url(bb71c8bab5c0cdf8f5f2c9c162d6b92.jpg);
+            
+            }
+            body
+
+        <style/>
+
+<html/>
