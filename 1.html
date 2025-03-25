@@ -1,0 +1,40 @@
+<div id="results"></div>
+
+<script>
+fetch('https://hplussport.com/api/products')
+  .then(function(response) {
+    // Check if response is successful
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+    return response.json();
+  })
+  .then(function(jsonData) {
+    // Display results in webpage
+    const container = document.getElementById('results');
+    let htmlContent = '<h2>Products</h2>';
+    
+    jsonData.forEach(product => {
+      htmlContent += `
+        <div class="product">
+          <h3>${product.name}</h3>
+          <img src="${product.image}" alt="${product.name}" width="200">
+          <p>${product.description}</p>
+          <p>Price: $${product.price}</p>
+        </div>
+      `;
+    });
+    
+    container.innerHTML = htmlContent;
+  })
+  .catch(function(error) {
+    // Handle errors
+    const container = document.getElementById('results');
+    container.innerHTML = `
+      <div class="error">
+        <p>Failed to load products. Please try again later.</p>
+        <p>Error details: ${error.message}</p>
+      </div>
+    `;
+  });
+</script>
