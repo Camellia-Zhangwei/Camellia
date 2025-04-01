@@ -1,0 +1,72 @@
+[
+  {
+    "author": "Robert C. Martin",
+    "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "description": "Learn the art of writing readable, maintainable code. This book covers principles like meaningful naming, error handling, and test-driven development. A must-read for developers aiming to improve code quality and adopt best practices in software craftsmanship.",
+    "price": 39.99,
+    "publisher": "Tech Publications"
+  },
+  {
+    "author": "Andrew Hunt, David Thomas",
+    "title": "The Pragmatic Programmer",
+    "description": "A timeless guide to programming techniques and career growth. Topics include DRY principles, automation, and debugging. Perfect for developers seeking to elevate their engineering skills and navigate complex software projects effectively.",
+    "price": 34.95,
+    "publisher": "Tech Publications"
+  },
+  {
+    "author": "Martin Kleppmann",
+    "title": "Designing Data-Intensive Applications",
+    "description": "Explore the challenges of scalable systems, database design, and distributed architectures. This book provides deep insights into data storage, processing, and reliability, making it essential for engineers building modern applications.",
+    "price": 49.99,
+    "publisher": "Tech Publications"
+  },
+  {
+    "author": "Eric Evans",
+    "title": "Domain-Driven Design: Tackling Complexity in the Heart of Software",
+    "description": "Master the strategic approach to software design with domain-driven principles. Learn to model complex systems, align code with business goals, and collaborate effectively with domain experts. Ideal for architects and senior developers.",
+    "price": 44.50,
+    "publisher": "Tech Publications"
+  },
+  {
+    "author": "Donald E. Knuth",
+    "title": "The Art of Computer Programming",
+    "description": "A legendary series diving deep into algorithms, data structures, and computational theory. A cornerstone for computer scientists and mathematicians. This volume covers fundamental algorithms with rigorous mathematical analysis.",
+    "price": 59.99,
+    "publisher": "Tech Publications"
+  },
+  {
+    "author": "Harold Abelson, Gerald Jay Sussman",
+    "title": "Structure and Interpretation of Computer Programs",
+    "description": "A classic textbook teaching computational thinking through Scheme programming. Emphasizes abstraction, recursion, and modular design. Perfect for students and educators in computer science fundamentals.",
+    "price": 42.99,
+    "publisher": "Tech Publications"
+  },
+  {
+    "author": "Ian Goodfellow, Yoshua Bengio, Aaron Courville",
+    "title": "Deep Learning",
+    "description": "The definitive textbook on neural networks and modern machine learning. Covers convolutional networks, optimization techniques, and generative models. Essential for researchers and practitioners in AI.",
+    "price": 54.99,
+    "publisher": "Tech Publications"
+  },
+  {
+    "author": "Kyle Simpson",
+    "title": "You Don't Know JS Yet",
+    "description": "A comprehensive series exploring JavaScript's core mechanics, including closures, prototypes, and asynchronous patterns. Perfect for developers aiming to master the language's nuances and advanced features.",
+    "price": 29.99,
+    "publisher": "Tech Publications"
+  },
+  {
+    "author": "Gene Kim, Jez Humble, Patrick Debois",
+    "title": "The DevOps Handbook",
+    "description": "Learn how to bridge development and operations for faster, reliable software delivery. Covers CI/CD, automation, and cultural practices. A roadmap for organizations adopting DevOps methodologies.",
+    "price": 37.99,
+    "publisher": "Tech Publications"
+  },
+  {
+    "author": "Steve McConnell",
+    "title": "Code Complete: A Practical Handbook of Software Construction",
+    "description": "A comprehensive guide to software construction best practices. Topics include design, debugging, and code optimization. A reference for developers at all skill levels to write robust, efficient code.",
+    "price": 47.50,
+    "publisher": "Tech Publications"
+  }
+]
