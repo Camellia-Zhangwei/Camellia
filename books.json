@@ -1,0 +1,72 @@
+[
+  {
+    "author": "Author One",
+    "title": "Learn Python Programming",
+    "description": "A comprehensive guide to learning Python, covering basic to advanced concepts and practical applications in programming.",
+    "price": 29.99,
+    "publisher": "Tech Books Publishing"
+  },
+  {
+    "author": "Author Two",
+    "title": "Mastering JavaScript",
+    "description": "This book provides deep insights into JavaScript, teaching both beginner and advanced techniques for creating dynamic websites.",
+    "price": 24.99,
+    "publisher": "Web Developer Press"
+  },
+  {
+    "author": "Author Three",
+    "title": "HTML & CSS: Design and Build Websites",
+    "description": "A visual and practical guide to learning HTML and CSS. Great for beginners and advanced learners to master web design.",
+    "price": 19.99,
+    "publisher": "Design Books Co."
+  },
+  {
+    "author": "Author Four",
+    "title": "Java for Beginners",
+    "description": "An easy-to-understand guide for Java programming, covering everything from syntax to object-oriented concepts.",
+    "price": 34.99,
+    "publisher": "Java Press"
+  },
+  {
+    "author": "Author Five",
+    "title": "Data Structures and Algorithms in Python",
+    "description": "Learn how to efficiently use Python to implement algorithms and data structures for solving complex problems.",
+    "price": 49.99,
+    "publisher": "Tech Publishers"
+  },
+  {
+    "author": "Author Six",
+    "title": "Advanced Web Development with React",
+    "description": "This book helps developers learn advanced techniques in React.js, including building large-scale applications and state management.",
+    "price": 39.99,
+    "publisher": "React Books"
+  },
+  {
+    "author": "Author Seven",
+    "title": "Building RESTful APIs with Node.js",
+    "description": "Learn how to design and develop robust RESTful APIs using Node.js and Express, the most popular JavaScript backend framework.",
+    "price": 44.99,
+    "publisher": "Node Press"
+  },
+  {
+    "author": "Author Eight",
+    "title": "Mastering Python Web Scraping",
+    "description": "Learn how to scrape data from websites using Python with powerful libraries such as BeautifulSoup and Scrapy.",
+    "price": 29.99,
+    "publisher": "Web Scraping Books"
+  },
+  {
+    "author": "Author Nine",
+    "title": "Introduction to Machine Learning with Python",
+    "description": "A practical guide to machine learning in Python, covering algorithms, models, and how to implement them.",
+    "price": 59.99,
+    "publisher": "ML Books"
+  },
+  {
+    "author": "Author Ten",
+    "title": "Computer Networks: A Systems Approach",
+    "description": "This book provides an in-depth understanding of computer networking, covering protocols, technologies, and network security.",
+    "price": 69.99,
+    "publisher": "Networking Press"
+  }
+]
